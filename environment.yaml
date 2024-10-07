@@ -1,0 +1,24 @@
+name: vancouver_bike_thefts
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair
+  - conda-forge::black
+  - geopy
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - isort
+  - jupyterlab
+  - jupytext
+  - matplotlib
+  - nltk
+  - openpyxl
+  - pandas
+  - pip
+  - pydeck
+  - pyjanitor
+  - python=3.12
+  - utm
+

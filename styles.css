@@ -1,0 +1,36 @@
+.box {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 203px;
+    height: 270px;
+    opacity: 1;
+    background: linear-gradient(165deg, rgba(255, 255, 255, 0.9), rgba(1, 152, 189, 0.7));
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: transform 0.2s;
+}
+
+.box:hover {
+    transform: scale(1.02);
+}
+
+.slider {
+    padding-bottom: 13px;
+}
+
+.slider_label {
+    font-family: 'Verdana'
+}
+
+h1 {
+    font-family: 'Verdana'
+}
+
+p {
+    font-size: 12px;
+    color: white
+}
