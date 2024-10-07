@@ -1,9 +1,9 @@
 .box {
     position: absolute;
-    top: 50px;
-    left: 50px;
+    top: 30px;
+    left: 30px;
     width: 203px;
-    height: 270px;
+    height: 240px;
     opacity: 1;
     background: linear-gradient(165deg, rgba(255, 255, 255, 0.9), rgba(1, 152, 189, 0.7));
     border-radius: 15px;
@@ -19,15 +19,17 @@
 }
 
 .slider {
-    padding-bottom: 13px;
+    padding-bottom: 9px;
 }
 
 .slider_label {
-    font-family: 'Verdana'
+    font-family: 'Verdana';
+    font-size: 14px;
 }
 
-h1 {
-    font-family: 'Verdana'
+h3 {
+    font-family: 'Verdana';
+    font-size: 16px;
 }
 
 p {
