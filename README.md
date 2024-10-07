@@ -33,6 +33,8 @@ To recreate this branch run
 
 and then add the "data/cleaned/vancouver_bicycle_thefts_cleaned.csv" file to the branch.
 
+Remove the first "\" in the file paths to the asset files in the index.html file.
+
 ### Tools
 This visualization uses Deck.gl which is a powerful framework for visualizing large datasets.
 Specifically, the HexagonLayer is being used to create the extruded columns on the map.
