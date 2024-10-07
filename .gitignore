@@ -1,4 +1,5 @@
 data/raw/crimedata_csv_AllNeighbourhoods_AllYears.csv
+node_modules/*
 */.ipynb_checkpoints/*
 *.pem
 
